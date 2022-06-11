@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Hailey!
 
-- 🎨 Pronouns: she/her
+- 🌈 Pronouns: she/her
 - 🌱 I’m currently learning postgreSQL, Express, and Node.js
-- 🌌 I’m looking to collaborate on projects that prioritize wellness, connection and creative expression.
+- 💫 I’m looking to collaborate on projects that prioritize wellness, connection and creative expression.
 - ⚡ Fun fact: I love learning languages, solving puzzles, and just about anything involving pattern recognition. This       passion has led me    to my tarot/astrology practice of 7 years, in addition to my latest pursuits in programming. 
 - 💬 How to reach me: https://www.linkedin.com/in/haileysteineke/ OR hailey.steineke@gmail.com
 

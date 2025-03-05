@@ -1,9 +1,11 @@
 ### 👋 Hi, I'm Hailey!
 
-- 🌈 Pronouns: she/her
-- 🌱 I’m currently learning postgreSQL, Express, and Node.js
-- 💫 I’m looking to collaborate on projects that prioritize wellness, connection and creative expression.
-- ⚡ Fun fact: I love learning languages, solving puzzles, and just about anything involving pattern recognition. This       passion has led me to my tarot/astrology practice of 7 years, in addition to my latest pursuits in programming. 
+- 🌸​ Pronouns: she/her
+  
+- 🌱 I’m currently bruhing off my skills using React and Supabase on little passion projects of mine. Check out my astro dice oracle!
+  
+- 💫 I want to collaborate on apps and websites that connect people to their hobbies, passions, and personal wellness and development. Dream projects include astrology software and databases, apps fo tracking goals and motivation, tools to make daily living feel easier (i.e. meal planning/cooking, birdwatching, herbalism, planners), and pretty much any kind of app I would my use in my own life.
+
 - ☕ How to reach me: https://www.linkedin.com/in/haileysteineke/ OR hailey.steineke@gmail.com
 
 <!--
